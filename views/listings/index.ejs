@@ -4,6 +4,12 @@
         display: flex;
         flex-wrap: wrap;
         align-items: center;
+        /* Hides the scrollbar for a cleaner look on mobile while keeping it functional */
+        -ms-overflow-style: none;  /* IE and Edge */
+        scrollbar-width: none;  /* Firefox */
+    }
+    #filters::-webkit-scrollbar {
+        display: none; /* Chrome, Safari and Opera */
     }
     .filter{
         text-align:center;
@@ -11,6 +17,7 @@
         margin-top: 2rem;
         opacity: 0.7;
         transition: opacity 0.2s ease;
+        flex-shrink: 0; /* Prevents icons from squishing on mobile */
     }
     .filter:hover{
         cursor: pointer;
@@ -28,9 +35,52 @@
         margin-left: 2rem;
         display: flex;
         align-items: center;
+        flex-shrink: 0;
     }
     .tax-info{
         display: none;
+    }
+    /* For Tablets */
+    @media (max-width: 992px) {
+        .filter {
+            margin-right: 1.5rem;
+            margin-top: 1.5rem;
+        }
+        .tax-toogle {
+            margin-left: 1rem;
+            margin-top: 1.5rem;
+        }
+    }
+
+    /* For Mobile Landscape */
+    @media (max-width: 768px) {
+        .filter {
+            margin-right: 1rem;
+            margin-top: 1rem;
+        }
+        .tax-toogle {
+            margin-left: 0.5rem;
+            margin-top: 1rem;
+            padding: 0.75rem;
+            font-size: 0.9rem;
+        }
+    }
+
+    /* For Mobile Portrait */
+    @media (max-width: 576px) {
+        .filter {
+            margin-right: 0.5rem;
+        }
+        .filter p {
+            font-size: 0.75rem;
+        }
+        .tax-toogle {
+            margin-left: 0;
+            margin-top: 1rem;
+            height: auto; 
+            padding: 0.5rem;
+            font-size: 0.8rem;
+        }
     }
 </style>
 <body>

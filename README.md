@@ -2,7 +2,7 @@
 
 A full-stack web application inspired by Airbnb, where users can publish vacation rental listings, explore locations on an interactive map, post reviews, and manage their bookings securely.
 
-🔗 **Live Demo:** [Live Demo](https://wanderlust-thushar.onrender.com/) &nbsp;|&nbsp; **GitHub:** [Thusharshetty/WanderLust](https://github.com/Thusharshetty/WanderLust)
+ **Live Demo:** [Live Demo](https://wanderlust-thushar.onrender.com/) &nbsp;|&nbsp; **GitHub:** [Thusharshetty/WanderLust](https://github.com/Thusharshetty/WanderLust)
 
 ---
 
@@ -10,12 +10,12 @@ A full-stack web application inspired by Airbnb, where users can publish vacatio
 
 > Home — Browse vacation rental listings
 
-![Home](<img width="1918" height="1036" alt="Screenshot 2026-02-25 212450" src="https://github.com/user-attachments/assets/b60578e5-fef4-4495-83f7-b6f7ee47bb9a" />
+![Home] (<img width="1918" height="1036" alt="Screenshot 2026-02-25 212450" src="https://github.com/user-attachments/assets/b60578e5-fef4-4495-83f7-b6f7ee47bb9a" />
 )
 
 > Listing Detail — Interactive map, reviews, and booking
 
-![Listing](<img width="1918" height="891" alt="Screenshot 2026-02-25 213030" src="https://github.com/user-attachments/assets/16e2123d-c0ab-4f3e-802c-191c27406023" />
+![Listing] (<img width="1918" height="891" alt="Screenshot 2026-02-25 213030" src="https://github.com/user-attachments/assets/16e2123d-c0ab-4f3e-802c-191c27406023" />
 )
 
 ---

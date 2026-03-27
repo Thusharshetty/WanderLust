@@ -2,7 +2,7 @@
 
 A full-stack web application inspired by Airbnb, where users can publish vacation rental listings, explore locations on an interactive map, post reviews, and manage their bookings securely.
 
-🔗 **Live Demo:** https://wanderlust-thushar.onrender.com/(#) &nbsp;|&nbsp; **GitHub:** [Thusharshetty/WanderLust](https://github.com/Thusharshetty/WanderLust)
+🔗 **Live Demo:** [Live Demo](https://wanderlust-thushar.onrender.com/) &nbsp;|&nbsp; **GitHub:** [Thusharshetty/WanderLust](https://github.com/Thusharshetty/WanderLust)
 
 ---
 
@@ -154,7 +154,7 @@ http://localhost:8080
 
 | Service | Platform |
 |---------|----------|
-| Backend + Frontend | Coming Soon |
+| Backend + Frontend | https://wanderlust-thushar.onrender.com/ |
 | Image Storage | Cloudinary |
 | Database | MongoDB Atlas |
 | Maps | MapTiler API |

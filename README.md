@@ -2,7 +2,7 @@
 
 A full-stack web application inspired by Airbnb, where users can publish vacation rental listings, explore locations on an interactive map, post reviews, and manage their bookings securely.
 
-🔗 **Live Demo:** [Coming Soon](#) &nbsp;|&nbsp; **GitHub:** [Thusharshetty/WanderLust](https://github.com/Thusharshetty/WanderLust)
+🔗 **Live Demo:** https://wanderlust-thushar.onrender.com/(#) &nbsp;|&nbsp; **GitHub:** [Thusharshetty/WanderLust](https://github.com/Thusharshetty/WanderLust)
 
 ---
 
